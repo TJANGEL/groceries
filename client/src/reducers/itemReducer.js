@@ -17,7 +17,7 @@ const initialState = {
     },
     {
       id: uuid(),
-      name: "Water"
+      name: "Candy"
     }
   ]
 };
